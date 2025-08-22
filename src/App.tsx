@@ -386,7 +386,8 @@ export default function QueueMasterApp() {
           <Swords className="text-indigo-600" />
           <h1 className="text-2xl font-extrabold tracking-tight">Queue Master</h1>
         </div>
-        <div className="text-xs text-slate-500">Offline-ready UI (PWA hooks ready)</div>
+        {/* <div className="text-xs text-slate-500">Offline-ready UI (PWA hooks ready)</div> */}
+        <div className="text-xs text-slate-500">by Cock Blockers</div>
       </div>
 
       <div className="mx-auto grid max-w-6xl grid-cols-1 gap-4 md:grid-cols-3">
