@@ -6,7 +6,7 @@ import tailwind from '@tailwindcss/vite'
 // If you’ll deploy on GitHub Pages under your repo path, set this:
 //   const base = '/queue-master/'
 // For local dev or user/org pages, use '/'.
-const base = '/'
+const base = '/queue-master/'
 
 export default defineConfig({
   base,
